@@ -1,2 +1,3 @@
 # 363-AAA-Service
-# This is a project run by wasteman Gareth and the gang gang
+ 
+A triple A service, running a medical library of paitent, doctor and staff details, medication information and a fully working sercuirty and roles systems! Including 2 factor authentication, via email!
